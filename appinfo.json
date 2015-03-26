@@ -1,0 +1,26 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        ""
+    ],
+    "companyName": "kasandell",
+    "longName": "FakePhone",
+    "projectType": "native",
+    "resources": {
+        "media": [
+            {
+                "file": "images/pebble_incoming_call_black_and_white.png",
+                "name": "call_accept_cancel",
+                "type": "png"
+            }
+        ]
+    },
+    "sdkVersion": "2",
+    "shortName": "FakePhone",
+    "uuid": "650e1261-aa0c-404f-9e95-76bc253d7dab",
+    "versionCode": 1,
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": false
+    }
+}
